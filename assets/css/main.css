@@ -638,7 +638,7 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url(../img/IMG_8025.JPG) top center no-repeat;
+  background: url(../img/portfbg.jpg) top center no-repeat;
   background-size: cover;
   width: 100%;
   min-height: 120vh;
